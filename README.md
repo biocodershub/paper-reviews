@@ -1,8 +1,8 @@
-## Paper reviews of selected manuscripts in bioinformatics.
+## Reviews of select bioinformatics papers.
 
 ### by Parsa Hosseini [parsa.hosseini@nih.gov]
 
-### Reviews of manuscripts predominantly associated with:
+### Main topics:
 
 * Transcription regulation and enhancer dynamics.
 
